@@ -20,7 +20,7 @@ To set up the EzyMetrics backend, follow these instructions:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/ezymetrics-backend.git
+   git clone https://github.com/dhirajmistry98/EzyMetrics
    cd ezymetrics-backend
 
 ### Key Details
